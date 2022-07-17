@@ -3,7 +3,7 @@
 Not full yet, optional part is comming soon\
 Also need to refactor notebooks to split in different files
 
-**Two towers trained only on small sample due to resource limit. Also only one epoch.**
+**Two towers trained only on small sample due to resource limit. Also only one epoch.**\
 **CG based on Price and user intent draws candidates randomly after filtering**
 
 | Metric  | random |popular| user intent | price | Two tower dafault | Two tower with features|
